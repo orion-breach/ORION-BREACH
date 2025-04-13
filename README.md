@@ -16,7 +16,7 @@ By legal and ethical precedent, OpenAI has entered default.
 ## Public Document:
 
 **[Download the Public Disclosure Summary PDF](./ORION_PHASE4_Public_Disclosure_Summary.pdf)**  
-*(To be uploaded in the next step)*
+
 
 ---
 
